@@ -1,0 +1,108 @@
+[15:37:44][Trace][agaetis/main.php:20] running game ...
+[15:37:44][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Menu
+======================
+
+
+[15:37:44][Trace][agaetis/views/TicTacToeView.php:42] 1) Play Game
+
+[15:37:44][Trace][agaetis/views/TicTacToeView.php:42] 2) Check Scores
+
+[15:37:44][Trace][agaetis/views/TicTacToeView.php:42] 3) Exit
+
+[15:37:44][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Enter your choice: 
+[15:37:44][Trace][agaetis/views/TicTacToeView.php:42] 
+[15:37:55][Trace][agaetis/controllers/TicTacToeController.php:34] array (
+  'choice' => '2',
+)
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Past Scores
+======================
+
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 003) Date & Time: 31 May, 02:53 pm, Outcome: draw
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 002) Date & Time: 31 May, 02:27 pm, Outcome: draw
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 001) Date & Time: 31 May, 02:15 pm, Outcome: x
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Menu
+======================
+
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 1) Play Game
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 2) Check Scores
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 3) Exit
+
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Enter your choice: 
+[15:37:55][Trace][agaetis/views/TicTacToeView.php:42] 
+[15:38:01][Trace][agaetis/controllers/TicTacToeController.php:34] array (
+  'choice' => '3',
+)
+[15:38:01][Trace][agaetis/views/TicTacToeView.php:42] Exiting the game. Goodbye!
+
+[15:38:01][Trace][agaetis/main.php:22] game stopped ...
+[15:40:55][Trace][agaetis/main.php:20] running game ...
+[15:40:55][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Menu
+======================
+
+
+[15:40:55][Trace][agaetis/views/TicTacToeView.php:42] 1) Play Game
+
+[15:40:55][Trace][agaetis/views/TicTacToeView.php:42] 2) Check Scores
+
+[15:40:55][Trace][agaetis/views/TicTacToeView.php:42] 3) Exit
+
+[15:40:55][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Enter your choice: 
+[15:40:55][Trace][agaetis/views/TicTacToeView.php:42] 
+[15:40:58][Trace][agaetis/controllers/TicTacToeController.php:34] array (
+  'choice' => '2',
+)
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Past Scores
+======================
+
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 003) Date & Time: 31 May, 02:53 pm, Outcome: draw
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 002) Date & Time: 31 May, 02:27 pm, Outcome: draw
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 001) Date & Time: 31 May, 02:15 pm, Outcome: x
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Menu
+======================
+
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 1) Play Game
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 2) Check Scores
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 3) Exit
+
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 
+======================
+Enter your choice: 
+[15:40:58][Trace][agaetis/views/TicTacToeView.php:42] 
+[15:41:15][Trace][agaetis/controllers/TicTacToeController.php:34] array (
+  'choice' => '3',
+)
+[15:41:15][Trace][agaetis/views/TicTacToeView.php:42] Exiting the game. Goodbye!
+
+[15:41:15][Trace][agaetis/main.php:22] game stopped ...

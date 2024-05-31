@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TicTacToeTest::testValidMove":7,"TicTacToeTest::testInvalidMove":8,"TicTacToeTest::testCheckWinner":7,"TicTacToeTest::testDraw":7},"times":{"TicTacToeTest::testValidMove":0.012,"TicTacToeTest::testInvalidMove":0.001,"TicTacToeTest::testCheckWinner":0.059,"TicTacToeTest::testWinnerX":0,"TicTacToeTest::testDraw":0}}
